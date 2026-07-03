@@ -1,3 +1,7 @@
-- 校级一等奖学金, 2022.  
+- First-Class Scholarship, Ocean University of China, 2024.
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Shandong Provincial Government Scholarship, 2024.
+
+- First-Class Scholarship, Ocean University of China, 2025.
+
+- National Scholarship, 2025.

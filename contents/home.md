@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/Yulia2233-github-blue?logo=github)](https://github.com/Yulia2233)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am Liu Yu, an undergraduate student majoring in Software Engineering at Ocean University of China. I will pursue a direct Ph.D. degree in Computer Science and Technology at Zhejiang University starting in 2026.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Email
+<code>liuyuse2022@gmail.com</code>  
+<code>liuyu5585@stu.ouc.edu.cn</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### Education
+**Zhejiang University**, Ph.D. in Computer Science and Technology (2026 - Present)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+**Ocean University of China**, B.Eng. in Software Engineering, Experimental Class (2022 - 2026)  
+- GPA: 3.71/4.0  
+- Comprehensive Score: 96.6
