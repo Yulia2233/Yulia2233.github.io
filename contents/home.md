@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/Yulia2233-github-blue?logo=github)](https://github.com/Yulia2233)
 
-I am Liu Yu, an undergraduate student majoring in Software Engineering at Ocean University of China. I will pursue a direct Ph.D. degree in Computer Science and Technology at Zhejiang University starting in 2026.
+I am Liu Yu, an undergraduate student majoring in Software Engineering at Ocean University of China. I will pursue a direct Ph.D. degree in Computer Science and Technology at Zhejiang University starting in 2026. My current research focuses on CAD generation.
 
 #### Email
 <code>liuyuse2022@gmail.com</code>  
